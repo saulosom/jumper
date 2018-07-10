@@ -1,0 +1,4 @@
+-home
+-mecânica do jogo
+-stage builder
+-sistema de arquivo txt para a fase contendo id do item, posição
